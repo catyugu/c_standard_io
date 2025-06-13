@@ -1,0 +1,5 @@
+1: Student Record
+2: ================
+3: Name: Alice
+4: ID: 42
+5: GPA: 3.85

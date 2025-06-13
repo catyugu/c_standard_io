@@ -1,0 +1,4 @@
+# User settings
+user = alice
+id = 12345
+host = main.server.com
